@@ -3,7 +3,7 @@ Coding assessment for KG
 
 While working on this assignment, I assumed it was ok for the user to enter in strings that were not of the same length
 
-The main part of the approach was to find out how many unique characters were in each string. If string one had the same, if not more, unique characters then string two then the program will return True.
+The main part of the approach was to find out how many unique characters were in each string. If the amount of unique characters in string one were the same, if not more, than in string two, the program will return True.
 
 If the second string had more unique characters than the first string, then the program would return False
 
